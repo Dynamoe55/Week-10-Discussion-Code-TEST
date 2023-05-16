@@ -1,0 +1,8 @@
+print ("Hello, everybody.")
+print ("Let's see what we can do here.")
+print ("I have opened my GitHub and am watching the provided video.")
+print ("I see some of us are having problems.")
+print ("The instructions seem outdated.")
+print ("I wonder if that is intentional to see what we will do?")
+print ("Here is what I did.")
+print ("As you can see, I created a new code for this exercise.")
